@@ -1,4 +1,4 @@
 polar:
   greeting: "Welcome to the production greeting from config server"
   arctic: 
-    hello: "Welcome to the production hello from the fresh config server"
+    hello: "Welcome to the production hello from the config server"

@@ -1,0 +1,4 @@
+polar:
+  greeting: "Welcome to the production greeting"
+  arctic: 
+    hello: "Welcome to the production hello"
